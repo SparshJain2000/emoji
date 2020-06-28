@@ -1,7 +1,7 @@
 # Emoji
 #### A simple NPM package which returns emoji by name, random emoji of the given type and a random emoji .
 ![npm (scoped)](https://img.shields.io/npm/v/@sparshjain/emoji?logo=npm&style=for-the-badge)
-![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/min/@sparshjain/emoji/latest?style=for-the-badge)
+![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/min/@sparshjain/emoji/2.1.0?style=for-the-badge)
 ![npm collaborators](https://img.shields.io/npm/collaborators/@sparshjain/emoji?logo=npm&style=for-the-badge)
 ![NPM](https://img.shields.io/npm/l/@sparshjain/emoji?logo=github&style=for-the-badge)
 
