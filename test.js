@@ -1,3 +1,7 @@
-const {EmojiByName,RandomEmoji,RandomEmojiByType} = require('./index');
-console.log(EmojiByName('SMILING FACE'));
-console.log(RandomEmojiByType('activities'));
+const {emojiByName,randomEmoji,randomEmojiByType, emojiByType} = require('./index');
+//======================================================================
+console.log(emojiByName('SMILING FACE'));
+console.log(randomEmojiByType('activities'));
+console.log(emojiByType('smiley'));
+console.log(randomEmoji());
+
