@@ -1,0 +1,15 @@
+{
+    "emojis": [{
+            "name": "smile",
+            "content": "😀"
+        },
+        {
+            "name": "burger",
+            "content": "🍔"
+        },
+        {
+            "name": "heart",
+            "content": "💗"
+        }
+    ]
+}
