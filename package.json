@@ -1,11 +1,13 @@
 {
     "name": "@sparshjain/emoji",
-    "version": "2.0.0",
-    "description": "Removes all spaces from a string",
+    "version": "2.0.3",
+    "description": "Return emojis by name and random emoji and random emoji of a particular type",
     "license": "MIT",
-    "repository": "sparshjain/emoji",
+    "repository": "SparshJain2000/emoji",
     "main": "index.js",
     "keywords": [
+        "emojibynames",
+        "emojibycategory",
         "emoji",
         "npm",
         "package",

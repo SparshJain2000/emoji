@@ -1,1 +1,2 @@
 ![npm (scoped)](https://img.shields.io/npm/v/@sparshjain/emoji?style=for-the-badge)
+![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/min/@sparshjain/emoji/latest?style=for-the-badge)
